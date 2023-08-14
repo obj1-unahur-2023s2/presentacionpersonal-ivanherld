@@ -36,3 +36,19 @@ Me dedico a / Trabajo de ...
 Les dejo una imagen mía 
 
 ![subir archivo de imagen](imagen.jpg)
+
+# Iván Herold
+Me llamo Iván Herold, tengo 29 años y soy de Hurlingham. He hecho otra carrera, pero siempre me quedo la pica de la parte infórmatica por eso decidí que sea ahora o nunca. Actualmente estoy a 2 materias de terminar primer año.
+
+TAmbién ayudo mucho para que este haciendo esta carrera un amigo, con el cuál pensamos en algún momento poder hacer juegos, y en algún momento publicarlos ¿Por qué no?.
+
+Ya tuve un contacto con objetos desde Mumuki en Argentina Programa, y quede fascinado con la potente herramienta que es, y toodas las cosas que se pueden hacer, por lo cual estoy muy entusiasmado con esta materia.
+
+Me gusta el mundo de las computadoras, últimamente mucho más el hardware. Poder elegir, o pensar por ejemplo las mejores combinaciones en componentes de una PC me resulta entretenido, es todo un desafio hoy en día. Me gusta la ciencia ficción, las buenas historias tanto en películas, libros e inclusive juegos.
+
+Actualmente trabajo en investigación y desarrollo en el INTI, en base a materiales en base a fibra de carbono; en relación a la carrera que estudie previamente. Si bien me gusta y es con lo que vivo actualmente, como mencione antes quiero sacarme la espina de saber más sobre el mundo de la informática.
+
+### Les dejo una imagen mía
+![Foto Mía](
+
+
