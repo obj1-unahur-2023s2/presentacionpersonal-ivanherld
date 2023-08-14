@@ -49,6 +49,7 @@ Me gusta el mundo de las computadoras, últimamente mucho más el hardware. Pode
 Actualmente trabajo en investigación y desarrollo en el INTI, en base a materiales en base a fibra de carbono; en relación a la carrera que estudie previamente. Si bien me gusta y es con lo que vivo actualmente, como mencione antes quiero sacarme la espina de saber más sobre el mundo de la informática.
 
 ### Les dejo una imagen mía
-![Foto Mía](
+![Foto Mía](./assets/Imagen de WhatsApp 2023-08-14 a las 20.29.03.jpg)
+
 
 
